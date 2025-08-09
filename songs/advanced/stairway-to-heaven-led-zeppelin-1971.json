@@ -1,0 +1,299 @@
+{
+  "id": "stairway-to-heaven-led-zeppelin-1971",
+  "metadata": {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "difficulty": 5,
+    "duration": 482,
+    "tuning": "standard",
+    "tempo": 72
+  },
+  "backingTrack": {
+    "youtubeId": "QkF3oxziUI4",
+    "title": "Led Zeppelin - Stairway to Heaven (Official Audio)",
+    "channelName": "Led Zeppelin",
+    "hasVocals": true,
+    "alternativeIds": [
+      "t9maXdxgcBE",
+      "D9ioyEvdggk"
+    ]
+  },
+  "structure": {
+    "sections": [
+      {
+        "id": "intro",
+        "name": "Intro (Fingerpicked)",
+        "startTime": 0,
+        "endTime": 60,
+        "chords": [
+          "Am",
+          "C/G",
+          "D/F#",
+          "F",
+          "G",
+          "Am"
+        ],
+        "difficulty": 5,
+        "practiceNotes": "Delicate fingerpicking, each note should ring clearly. Use classical guitar fingering."
+      },
+      {
+        "id": "verse1",
+        "name": "Verse 1",
+        "startTime": 60,
+        "endTime": 134,
+        "chords": [
+          "Am",
+          "C/G",
+          "D/F#",
+          "F",
+          "G",
+          "Am"
+        ],
+        "difficulty": 4,
+        "practiceNotes": "Continue fingerpicking under vocals. Maintain consistent pattern."
+      },
+      {
+        "id": "verse2",
+        "name": "Verse 2",
+        "startTime": 134,
+        "endTime": 208,
+        "chords": [
+          "Am",
+          "C/G",
+          "D/F#",
+          "F",
+          "G",
+          "Am",
+          "C",
+          "F",
+          "Am"
+        ],
+        "difficulty": 4,
+        "practiceNotes": "More complex chord progression, subtle tempo increase"
+      },
+      {
+        "id": "bridge",
+        "name": "Bridge",
+        "startTime": 208,
+        "endTime": 270,
+        "chords": [
+          "F",
+          "G",
+          "Am",
+          "F",
+          "G",
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am"
+        ],
+        "strummingPattern": "D-U-D-U",
+        "difficulty": 4,
+        "practiceNotes": "Transition from fingerpicking to strumming. Build energy."
+      },
+      {
+        "id": "rock-section",
+        "name": "Rock Section",
+        "startTime": 270,
+        "endTime": 360,
+        "chords": [
+          "Am",
+          "G",
+          "F",
+          "G"
+        ],
+        "strummingPattern": "D-D-U-D-U-D-U",
+        "difficulty": 4,
+        "practiceNotes": "Full band enters. Strong downbeat emphasis. Power chords work well."
+      },
+      {
+        "id": "guitar-solo",
+        "name": "Guitar Solo",
+        "startTime": 360,
+        "endTime": 430,
+        "chords": [
+          "Am",
+          "G",
+          "F",
+          "G"
+        ],
+        "difficulty": 5,
+        "practiceNotes": "One of the most famous guitar solos ever. Take it slow, focus on bends and phrasing."
+      },
+      {
+        "id": "outro",
+        "name": "Outro",
+        "startTime": 430,
+        "endTime": 482,
+        "chords": [
+          "Am",
+          "G",
+          "F",
+          "G",
+          "Am"
+        ],
+        "difficulty": 4,
+        "practiceNotes": "Gradual fade. Return to gentler dynamics."
+      }
+    ]
+  },
+  "chords": {
+    "Am": {
+      "positions": [
+        -1,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "fingering": [
+        0,
+        0,
+        2,
+        3,
+        1,
+        0
+      ],
+      "difficulty": 1,
+      "name": "A Minor"
+    },
+    "C/G": {
+      "positions": [
+        3,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "fingering": [
+        3,
+        4,
+        2,
+        0,
+        1,
+        0
+      ],
+      "difficulty": 3,
+      "name": "C Major over G"
+    },
+    "D/F#": {
+      "positions": [
+        2,
+        -1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "fingering": [
+        1,
+        0,
+        0,
+        2,
+        4,
+        3
+      ],
+      "difficulty": 4,
+      "name": "D Major over F#"
+    },
+    "F": {
+      "positions": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "fingering": [
+        1,
+        3,
+        4,
+        2,
+        1,
+        1
+      ],
+      "difficulty": 4,
+      "name": "F Major (Barre)"
+    },
+    "G": {
+      "positions": [
+        3,
+        2,
+        0,
+        0,
+        3,
+        3
+      ],
+      "fingering": [
+        3,
+        2,
+        0,
+        0,
+        3,
+        4
+      ],
+      "difficulty": 1,
+      "name": "G Major"
+    },
+    "C": {
+      "positions": [
+        -1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "fingering": [
+        0,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "difficulty": 2,
+      "name": "C Major"
+    },
+    "D": {
+      "positions": [
+        -1,
+        -1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "fingering": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        2
+      ],
+      "difficulty": 1,
+      "name": "D Major"
+    }
+  },
+  "practiceGuides": {
+    "intermediate": "Start with the intro fingerpicking pattern. Master each section separately before attempting the full song.",
+    "advanced": "Focus on dynamics and building intensity throughout the song. Work on seamless transitions between sections."
+  },
+  "tags": [
+    "advanced",
+    "fingerpicking",
+    "barre-chords",
+    "classic-rock",
+    "epic",
+    "led-zeppelin",
+    "guitar-solo",
+    "iconic"
+  ]
+}

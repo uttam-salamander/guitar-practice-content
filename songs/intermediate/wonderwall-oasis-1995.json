@@ -1,0 +1,258 @@
+{
+  "id": "wonderwall-oasis-1995",
+  "metadata": {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "year": 1995,
+    "genre": "Alternative Rock",
+    "difficulty": 2,
+    "duration": 258,
+    "tuning": "standard",
+    "capo": 2,
+    "tempo": 87
+  },
+  "backingTrack": {
+    "youtubeId": "bx1Bh8ZvH84",
+    "startTime": 0,
+    "endTime": 258,
+    "title": "Oasis - Wonderwall (Official Video)",
+    "channelName": "OasisVEVO",
+    "hasVocals": true,
+    "alternativeIds": [
+      "6hzrDeceEKc",
+      "F5tSjkjNdPQ",
+      "ibAoSyqGJSw"
+    ]
+  },
+  "structure": {
+    "sections": [
+      {
+        "id": "intro",
+        "name": "Intro",
+        "startTime": 0,
+        "endTime": 23,
+        "chords": [
+          "Em7",
+          "G",
+          "D",
+          "C"
+        ],
+        "strummingPattern": "D-D-U-D-U",
+        "difficulty": 2,
+        "practiceNotes": "Focus on clean chord transitions, especially G to D"
+      },
+      {
+        "id": "verse1",
+        "name": "Verse 1",
+        "startTime": 23,
+        "endTime": 54,
+        "chords": [
+          "Em7",
+          "G",
+          "D",
+          "C"
+        ],
+        "strummingPattern": "D-D-U-D-U",
+        "difficulty": 2,
+        "practiceNotes": "Keep consistent rhythm, match the vocal phrasing"
+      },
+      {
+        "id": "prechorus1",
+        "name": "Pre-Chorus 1",
+        "startTime": 54,
+        "endTime": 70,
+        "chords": [
+          "C",
+          "D",
+          "Em7"
+        ],
+        "strummingPattern": "D-D-U-D-U",
+        "difficulty": 3,
+        "practiceNotes": "Build energy leading into chorus"
+      },
+      {
+        "id": "chorus1",
+        "name": "Chorus 1",
+        "startTime": 70,
+        "endTime": 102,
+        "chords": [
+          "C",
+          "D",
+          "Em7",
+          "G"
+        ],
+        "strummingPattern": "D-D-U-D-U-D-U",
+        "difficulty": 3,
+        "practiceNotes": "Emphasize the downbeats, add dynamics"
+      },
+      {
+        "id": "verse2",
+        "name": "Verse 2",
+        "startTime": 102,
+        "endTime": 133,
+        "chords": [
+          "Em7",
+          "G",
+          "D",
+          "C"
+        ],
+        "strummingPattern": "D-D-U-D-U",
+        "difficulty": 2,
+        "practiceNotes": "Similar to verse 1 but with more confidence"
+      },
+      {
+        "id": "prechorus2",
+        "name": "Pre-Chorus 2",
+        "startTime": 133,
+        "endTime": 149,
+        "chords": [
+          "C",
+          "D",
+          "Em7"
+        ],
+        "strummingPattern": "D-D-U-D-U",
+        "difficulty": 3
+      },
+      {
+        "id": "chorus2",
+        "name": "Chorus 2",
+        "startTime": 149,
+        "endTime": 181,
+        "chords": [
+          "C",
+          "D",
+          "Em7",
+          "G"
+        ],
+        "strummingPattern": "D-D-U-D-U-D-U",
+        "difficulty": 3
+      },
+      {
+        "id": "bridge",
+        "name": "Bridge",
+        "startTime": 181,
+        "endTime": 213,
+        "chords": [
+          "C",
+          "D",
+          "G",
+          "Em7"
+        ],
+        "strummingPattern": "D-U-X-U-D-U",
+        "difficulty": 4,
+        "practiceNotes": "New strumming pattern, palm mute on X"
+      },
+      {
+        "id": "outro",
+        "name": "Outro/Chorus",
+        "startTime": 213,
+        "endTime": 258,
+        "chords": [
+          "C",
+          "D",
+          "Em7",
+          "G"
+        ],
+        "strummingPattern": "D-D-U-D-U-D-U",
+        "difficulty": 3,
+        "practiceNotes": "Fade out with repeated chorus pattern"
+      }
+    ]
+  },
+  "chords": {
+    "Em7": {
+      "positions": [
+        0,
+        2,
+        2,
+        0,
+        3,
+        0
+      ],
+      "fingering": [
+        0,
+        1,
+        2,
+        0,
+        3,
+        0
+      ],
+      "difficulty": 1,
+      "name": "Em7 (Open Position)"
+    },
+    "G": {
+      "positions": [
+        3,
+        2,
+        0,
+        0,
+        3,
+        3
+      ],
+      "fingering": [
+        3,
+        2,
+        0,
+        0,
+        3,
+        4
+      ],
+      "difficulty": 1,
+      "name": "G Major (Open Position)"
+    },
+    "D": {
+      "positions": [
+        -1,
+        -1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "fingering": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        2
+      ],
+      "difficulty": 1,
+      "name": "D Major (Open Position)"
+    },
+    "C": {
+      "positions": [
+        -1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "fingering": [
+        0,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "difficulty": 2,
+      "name": "C Major (Open Position)"
+    }
+  },
+  "practiceGuides": {
+    "beginner": "Start with just Em7-G changes at slow tempo. Focus on clean fretting and getting each chord to ring clearly.",
+    "intermediate": "Work on smooth transitions and consistent strumming pattern. Practice chord changes without looking at fretboard.",
+    "advanced": "Add dynamics and embellishments. Try fingerpicking the intro. Work on singing while playing."
+  },
+  "tags": [
+    "beginner-friendly",
+    "open-chords",
+    "strumming",
+    "classic-rock",
+    "capo-required",
+    "90s",
+    "britpop"
+  ]
+}

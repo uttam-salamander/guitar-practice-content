@@ -1,0 +1,231 @@
+{
+  "id": "house-of-rising-sun-animals-1964",
+  "metadata": {
+    "title": "House of the Rising Sun",
+    "artist": "The Animals",
+    "year": 1964,
+    "genre": "Folk Rock",
+    "difficulty": 3,
+    "duration": 267,
+    "tuning": "standard",
+    "tempo": 96
+  },
+  "backingTrack": {
+    "youtubeId": "0sB3Fjw3Uvc",
+    "title": "The Animals - House of the Rising Sun (Official Video)",
+    "channelName": "TheAnimalsVEVO",
+    "hasVocals": true,
+    "alternativeIds": [
+      "MrCNBOWM9ME",
+      "ReiOhkBTlJI"
+    ]
+  },
+  "structure": {
+    "sections": [
+      {
+        "id": "intro",
+        "name": "Intro",
+        "startTime": 0,
+        "endTime": 25,
+        "chords": [
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am",
+          "E",
+          "Am"
+        ],
+        "difficulty": 3,
+        "practiceNotes": "Classic fingerpicking arpeggio pattern. Each chord gets equal time."
+      },
+      {
+        "id": "verse1",
+        "name": "Verse 1",
+        "startTime": 25,
+        "endTime": 85,
+        "chords": [
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am",
+          "C",
+          "E",
+          "Am"
+        ],
+        "difficulty": 3,
+        "practiceNotes": "Continue arpeggio pattern. Listen to vocal melody for timing."
+      },
+      {
+        "id": "verse2",
+        "name": "Verse 2",
+        "startTime": 85,
+        "endTime": 145,
+        "chords": [
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am",
+          "C",
+          "E",
+          "Am"
+        ],
+        "difficulty": 3
+      },
+      {
+        "id": "solo",
+        "name": "Guitar Solo",
+        "startTime": 145,
+        "endTime": 205,
+        "chords": [
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am",
+          "C",
+          "E",
+          "Am"
+        ],
+        "difficulty": 4,
+        "practiceNotes": "Beautiful melodic solo over the same chord progression"
+      },
+      {
+        "id": "verse3",
+        "name": "Final Verse",
+        "startTime": 205,
+        "endTime": 267,
+        "chords": [
+          "Am",
+          "C",
+          "D",
+          "F",
+          "Am",
+          "C",
+          "E",
+          "Am"
+        ],
+        "difficulty": 3,
+        "practiceNotes": "Build to climax, then settle back to original dynamic"
+      }
+    ]
+  },
+  "chords": {
+    "Am": {
+      "positions": [
+        -1,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "fingering": [
+        0,
+        0,
+        2,
+        3,
+        1,
+        0
+      ],
+      "difficulty": 1,
+      "name": "A Minor"
+    },
+    "C": {
+      "positions": [
+        -1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "fingering": [
+        0,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "difficulty": 2,
+      "name": "C Major"
+    },
+    "D": {
+      "positions": [
+        -1,
+        -1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "fingering": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        2
+      ],
+      "difficulty": 1,
+      "name": "D Major"
+    },
+    "F": {
+      "positions": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "fingering": [
+        1,
+        3,
+        4,
+        2,
+        1,
+        1
+      ],
+      "difficulty": 4,
+      "name": "F Major (Barre)"
+    },
+    "E": {
+      "positions": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "fingering": [
+        0,
+        2,
+        3,
+        1,
+        0,
+        0
+      ],
+      "difficulty": 1,
+      "name": "E Major"
+    }
+  },
+  "practiceGuides": {
+    "beginner": "Focus on the arpeggio pattern: thumb plays bass note, fingers play treble strings in sequence.",
+    "intermediate": "Work on smooth chord changes while maintaining the fingerpicking pattern.",
+    "advanced": "Add dynamics and expression. Try to capture the haunting mood of the original."
+  },
+  "tags": [
+    "fingerpicking",
+    "arpeggio",
+    "folk-rock",
+    "classic",
+    "60s",
+    "barre-chord-practice",
+    "Am-progression"
+  ]
+}

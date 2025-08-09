@@ -1,0 +1,311 @@
+{
+  "version": "1.2.0",
+  "lastUpdated": "2025-08-09T20:39:53.408Z",
+  "totalSongs": 3,
+  "categories": {
+    "byDifficulty": {
+      "beginner": [],
+      "intermediate": [
+        {
+          "id": "wonderwall-oasis-1995",
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "difficulty": 2,
+          "genre": "Alternative Rock",
+          "duration": 258,
+          "practiceTime": 30,
+          "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+          "youtubeId": "bx1Bh8ZvH84",
+          "tags": [
+            "beginner-friendly",
+            "open-chords",
+            "strumming",
+            "classic-rock",
+            "90s"
+          ]
+        },
+        {
+          "id": "house-of-rising-sun-animals-1964",
+          "title": "House of the Rising Sun",
+          "artist": "The Animals",
+          "difficulty": 3,
+          "genre": "Folk Rock",
+          "duration": 267,
+          "practiceTime": 60,
+          "filePath": "/songs/intermediate/house-of-rising-sun-animals-1964.json",
+          "youtubeId": "0sB3Fjw3Uvc",
+          "tags": [
+            "fingerpicking",
+            "arpeggio",
+            "folk-rock",
+            "classic",
+            "60s"
+          ]
+        }
+      ],
+      "advanced": [
+        {
+          "id": "stairway-to-heaven-led-zeppelin-1971",
+          "title": "Stairway to Heaven",
+          "artist": "Led Zeppelin",
+          "difficulty": 5,
+          "genre": "Classic Rock",
+          "duration": 482,
+          "practiceTime": 180,
+          "filePath": "/songs/advanced/stairway-to-heaven-led-zeppelin-1971.json",
+          "youtubeId": "QkF3oxziUI4",
+          "tags": [
+            "advanced",
+            "fingerpicking",
+            "barre-chords",
+            "classic-rock",
+            "epic"
+          ]
+        }
+      ]
+    },
+    "byGenre": {
+      "Alternative Rock": [
+        {
+          "id": "wonderwall-oasis-1995",
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "difficulty": 2,
+          "genre": "Alternative Rock",
+          "duration": 258,
+          "practiceTime": 30,
+          "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+          "youtubeId": "bx1Bh8ZvH84",
+          "tags": [
+            "beginner-friendly",
+            "open-chords",
+            "strumming",
+            "classic-rock",
+            "90s"
+          ]
+        }
+      ],
+      "Classic Rock": [
+        {
+          "id": "stairway-to-heaven-led-zeppelin-1971",
+          "title": "Stairway to Heaven",
+          "artist": "Led Zeppelin",
+          "difficulty": 5,
+          "genre": "Classic Rock",
+          "duration": 482,
+          "practiceTime": 180,
+          "filePath": "/songs/advanced/stairway-to-heaven-led-zeppelin-1971.json",
+          "youtubeId": "QkF3oxziUI4",
+          "tags": [
+            "advanced",
+            "fingerpicking",
+            "barre-chords",
+            "classic-rock",
+            "epic"
+          ]
+        }
+      ],
+      "Folk Rock": [
+        {
+          "id": "house-of-rising-sun-animals-1964",
+          "title": "House of the Rising Sun",
+          "artist": "The Animals",
+          "difficulty": 3,
+          "genre": "Folk Rock",
+          "duration": 267,
+          "practiceTime": 60,
+          "filePath": "/songs/intermediate/house-of-rising-sun-animals-1964.json",
+          "youtubeId": "0sB3Fjw3Uvc",
+          "tags": [
+            "fingerpicking",
+            "arpeggio",
+            "folk-rock",
+            "classic",
+            "60s"
+          ]
+        }
+      ]
+    },
+    "byArtist": {
+      "Oasis": [
+        {
+          "id": "wonderwall-oasis-1995",
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "difficulty": 2,
+          "genre": "Alternative Rock",
+          "duration": 258,
+          "practiceTime": 30,
+          "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+          "youtubeId": "bx1Bh8ZvH84",
+          "tags": [
+            "beginner-friendly",
+            "open-chords",
+            "strumming",
+            "classic-rock",
+            "90s"
+          ]
+        }
+      ],
+      "Led Zeppelin": [
+        {
+          "id": "stairway-to-heaven-led-zeppelin-1971",
+          "title": "Stairway to Heaven",
+          "artist": "Led Zeppelin",
+          "difficulty": 5,
+          "genre": "Classic Rock",
+          "duration": 482,
+          "practiceTime": 180,
+          "filePath": "/songs/advanced/stairway-to-heaven-led-zeppelin-1971.json",
+          "youtubeId": "QkF3oxziUI4",
+          "tags": [
+            "advanced",
+            "fingerpicking",
+            "barre-chords",
+            "classic-rock",
+            "epic"
+          ]
+        }
+      ],
+      "The Animals": [
+        {
+          "id": "house-of-rising-sun-animals-1964",
+          "title": "House of the Rising Sun",
+          "artist": "The Animals",
+          "difficulty": 3,
+          "genre": "Folk Rock",
+          "duration": 267,
+          "practiceTime": 60,
+          "filePath": "/songs/intermediate/house-of-rising-sun-animals-1964.json",
+          "youtubeId": "0sB3Fjw3Uvc",
+          "tags": [
+            "fingerpicking",
+            "arpeggio",
+            "folk-rock",
+            "classic",
+            "60s"
+          ]
+        }
+      ]
+    },
+    "featured": [
+      {
+        "id": "wonderwall-oasis-1995",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "difficulty": 2,
+        "genre": "Alternative Rock",
+        "duration": 258,
+        "practiceTime": 30,
+        "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+        "youtubeId": "bx1Bh8ZvH84",
+        "tags": [
+          "beginner-friendly",
+          "open-chords",
+          "strumming",
+          "classic-rock",
+          "90s"
+        ]
+      },
+      {
+        "id": "stairway-to-heaven-led-zeppelin-1971",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "difficulty": 5,
+        "genre": "Classic Rock",
+        "duration": 482,
+        "practiceTime": 180,
+        "filePath": "/songs/advanced/stairway-to-heaven-led-zeppelin-1971.json",
+        "youtubeId": "QkF3oxziUI4",
+        "tags": [
+          "advanced",
+          "fingerpicking",
+          "barre-chords",
+          "classic-rock",
+          "epic"
+        ]
+      }
+    ],
+    "newest": [
+      {
+        "id": "wonderwall-oasis-1995",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "difficulty": 2,
+        "genre": "Alternative Rock",
+        "duration": 258,
+        "practiceTime": 30,
+        "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+        "youtubeId": "bx1Bh8ZvH84",
+        "tags": [
+          "beginner-friendly",
+          "open-chords",
+          "strumming",
+          "classic-rock",
+          "90s"
+        ]
+      }
+    ],
+    "popular": [
+      {
+        "id": "wonderwall-oasis-1995",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "difficulty": 2,
+        "genre": "Alternative Rock",
+        "duration": 258,
+        "practiceTime": 30,
+        "filePath": "/songs/intermediate/wonderwall-oasis-1995.json",
+        "youtubeId": "bx1Bh8ZvH84",
+        "tags": [
+          "beginner-friendly",
+          "open-chords",
+          "strumming",
+          "classic-rock",
+          "90s"
+        ]
+      },
+      {
+        "id": "house-of-rising-sun-animals-1964",
+        "title": "House of the Rising Sun",
+        "artist": "The Animals",
+        "difficulty": 3,
+        "genre": "Folk Rock",
+        "duration": 267,
+        "practiceTime": 60,
+        "filePath": "/songs/intermediate/house-of-rising-sun-animals-1964.json",
+        "youtubeId": "0sB3Fjw3Uvc",
+        "tags": [
+          "fingerpicking",
+          "arpeggio",
+          "folk-rock",
+          "classic",
+          "60s"
+        ]
+      },
+      {
+        "id": "stairway-to-heaven-led-zeppelin-1971",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "difficulty": 5,
+        "genre": "Classic Rock",
+        "duration": 482,
+        "practiceTime": 180,
+        "filePath": "/songs/advanced/stairway-to-heaven-led-zeppelin-1971.json",
+        "youtubeId": "QkF3oxziUI4",
+        "tags": [
+          "advanced",
+          "fingerpicking",
+          "barre-chords",
+          "classic-rock",
+          "epic"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/your-username/guitar-practice-content",
+    "commit": "abc123def456",
+    "branch": "main"
+  }
+}
