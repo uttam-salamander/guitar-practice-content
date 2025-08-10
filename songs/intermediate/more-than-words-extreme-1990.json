@@ -1,0 +1,72 @@
+{
+  "id": "more-than-words-extreme-1990",
+  "metadata": {
+    "title": "More Than Words",
+    "artist": "Extreme",
+    "year": 1990,
+    "genre": "Rock",
+    "difficulty": 3,
+    "duration": 317,
+    "key": "G",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 92,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "UrIiLONgjHs",
+    "startTime": 0,
+    "endTime": 317,
+    "duration": 317
+  },
+  "structure": [
+    {
+      "id": "intro",
+      "name": "Intro",
+      "startTime": 0,
+      "endTime": 25,
+      "chords": [
+        "G",
+        "G/B",
+        "C"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Fingerpicking with bass line",
+        "Thumb plays bass notes",
+        "Gentle touch"
+      ]
+    },
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 25,
+      "endTime": 75,
+      "chords": [
+        "G",
+        "G/B",
+        "C",
+        "Am",
+        "C",
+        "D",
+        "G"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Combine picking and strumming",
+        "Bass line movement",
+        "Vocal melody integration"
+      ]
+    }
+  ],
+  "tags": [
+    "fingerpicking",
+    "rock"
+  ],
+  "practiceTime": 69,
+  "techniques": [
+    "fingerpicking",
+    "vocals",
+    "bass-lines"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "cliffs-of-dover-eric-johnson-1990",
+  "metadata": {
+    "title": "Cliffs of Dover",
+    "artist": "Eric Johnson",
+    "year": 1990,
+    "genre": "Instrumental Rock",
+    "difficulty": 5,
+    "duration": 287,
+    "key": "G",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 140,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "15eu7ar5EKM",
+    "startTime": 0,
+    "endTime": 287,
+    "duration": 287
+  },
+  "structure": [
+    {
+      "id": "main-theme",
+      "name": "Main Theme",
+      "startTime": 0,
+      "endTime": 60,
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Extremely precise picking",
+        "High speed technique",
+        "Perfect timing required"
+      ]
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "startTime": 60,
+      "endTime": 140,
+      "chords": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Complex melodic lines",
+        "Advanced technique",
+        "Musical phrasing"
+      ]
+    }
+  ],
+  "tags": [
+    "advanced",
+    "instrumental rock"
+  ],
+  "practiceTime": 95,
+  "techniques": [
+    "advanced-picking",
+    "speed",
+    "precision"
+  ]
+}

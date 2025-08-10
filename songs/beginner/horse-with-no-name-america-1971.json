@@ -1,0 +1,65 @@
+{
+  "id": "horse-with-no-name-america-1971",
+  "metadata": {
+    "title": "Horse with No Name",
+    "artist": "America",
+    "year": 1971,
+    "genre": "Folk Rock",
+    "difficulty": 1,
+    "duration": 252,
+    "key": "Em",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 120,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "zSAJ0l4OBHM",
+    "startTime": 0,
+    "endTime": 252,
+    "duration": 252
+  },
+  "structure": [
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 0,
+      "endTime": 60,
+      "chords": [
+        "Em",
+        "D6add9"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Only two chords!",
+        "Focus on strumming rhythm",
+        "Let chords ring"
+      ]
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "startTime": 60,
+      "endTime": 90,
+      "chords": [
+        "Em",
+        "D6add9"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Same chords, different feel",
+        "Vary your strumming",
+        "Desert atmosphere"
+      ]
+    }
+  ],
+  "tags": [
+    "beginner-friendly",
+    "folk rock"
+  ],
+  "practiceTime": 33,
+  "techniques": [
+    "strumming",
+    "two-chord-song"
+  ]
+}

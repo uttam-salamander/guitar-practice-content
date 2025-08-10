@@ -1,0 +1,90 @@
+{
+  "id": "blackbird-the-beatles-1968",
+  "metadata": {
+    "title": "Blackbird",
+    "artist": "The Beatles",
+    "year": 1968,
+    "genre": "Folk",
+    "difficulty": 3,
+    "duration": 136,
+    "key": "G",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 96,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "Man4Xw8Xypo",
+    "startTime": 0,
+    "endTime": 136,
+    "duration": 136
+  },
+  "structure": [
+    {
+      "id": "intro",
+      "name": "Intro",
+      "startTime": 0,
+      "endTime": 15,
+      "chords": [
+        "G",
+        "Am",
+        "G/B"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Gentle fingerpicking",
+        "Thumb on bass notes",
+        "Smooth transitions"
+      ]
+    },
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 15,
+      "endTime": 55,
+      "chords": [
+        "G",
+        "Am",
+        "G/B",
+        "C",
+        "C#dim",
+        "D"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Maintain fingerpicking pattern",
+        "Watch the C#dim chord",
+        "Keep melody clear"
+      ]
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge",
+      "startTime": 55,
+      "endTime": 80,
+      "chords": [
+        "F",
+        "C",
+        "Dm",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Barre chord section",
+        "Smooth voice leading",
+        "Build intensity"
+      ]
+    }
+  ],
+  "tags": [
+    "fingerpicking",
+    "folk"
+  ],
+  "practiceTime": 50,
+  "techniques": [
+    "fingerpicking",
+    "partial-barre-chords"
+  ]
+}

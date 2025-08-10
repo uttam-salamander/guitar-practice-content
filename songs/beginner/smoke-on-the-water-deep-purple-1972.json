@@ -1,0 +1,86 @@
+{
+  "id": "smoke-on-the-water-deep-purple-1972",
+  "metadata": {
+    "title": "Smoke on the Water",
+    "artist": "Deep Purple",
+    "year": 1972,
+    "genre": "Rock",
+    "difficulty": 2,
+    "duration": 338,
+    "key": "G",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 112,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "zUwEIt9ez7M",
+    "startTime": 0,
+    "endTime": 338,
+    "duration": 338
+  },
+  "structure": [
+    {
+      "id": "intro-riff",
+      "name": "Intro Riff",
+      "startTime": 0,
+      "endTime": 30,
+      "chords": [
+        "G5",
+        "Bb5",
+        "C5"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Focus on the iconic riff pattern",
+        "Use downstrokes for power",
+        "Keep it simple and steady"
+      ]
+    },
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 30,
+      "endTime": 90,
+      "chords": [
+        "G5",
+        "Bb5",
+        "C5",
+        "G5"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Maintain steady rhythm",
+        "Palm mute for verse sections",
+        "Build intensity gradually"
+      ]
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "startTime": 90,
+      "endTime": 135,
+      "chords": [
+        "G5",
+        "Bb5",
+        "C5"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Open up the sound",
+        "Let the power chords ring",
+        "Strong downstrokes"
+      ]
+    }
+  ],
+  "tags": [
+    "beginner-friendly",
+    "power-chords",
+    "rock"
+  ],
+  "practiceTime": 46,
+  "techniques": [
+    "power-chords",
+    "riff-playing"
+  ]
+}

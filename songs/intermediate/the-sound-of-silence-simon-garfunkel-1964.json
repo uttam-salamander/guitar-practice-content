@@ -1,0 +1,70 @@
+{
+  "id": "the-sound-of-silence-simon-garfunkel-1964",
+  "metadata": {
+    "title": "The Sound of Silence",
+    "artist": "Simon & Garfunkel",
+    "year": 1964,
+    "genre": "Folk",
+    "difficulty": 3,
+    "duration": 200,
+    "key": "Am",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 100,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "4fWyzwo1xg0",
+    "startTime": 0,
+    "endTime": 200,
+    "duration": 200
+  },
+  "structure": [
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 0,
+      "endTime": 50,
+      "chords": [
+        "Am",
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Start quietly",
+        "Build dynamics gradually",
+        "Clear fingerpicking"
+      ]
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "startTime": 50,
+      "endTime": 80,
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Stronger strumming",
+        "Emphasize the message",
+        "Dynamic contrast"
+      ]
+    }
+  ],
+  "tags": [
+    "fingerpicking",
+    "folk"
+  ],
+  "practiceTime": 50,
+  "techniques": [
+    "fingerpicking",
+    "dynamics"
+  ]
+}

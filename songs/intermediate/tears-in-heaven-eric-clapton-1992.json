@@ -1,0 +1,77 @@
+{
+  "id": "tears-in-heaven-eric-clapton-1992",
+  "metadata": {
+    "title": "Tears in Heaven",
+    "artist": "Eric Clapton",
+    "year": 1992,
+    "genre": "Blues",
+    "difficulty": 3,
+    "duration": 282,
+    "key": "A",
+    "capo": 2,
+    "tuning": "Standard",
+    "tempo": 80,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "JxPj3GAYYZ0",
+    "startTime": 0,
+    "endTime": 282,
+    "duration": 282
+  },
+  "structure": [
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 0,
+      "endTime": 45,
+      "chords": [
+        "A",
+        "E/G#",
+        "F#m",
+        "A/E",
+        "D/F#",
+        "A/E",
+        "E",
+        "A"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Gentle fingerpicking",
+        "Emphasize bass notes",
+        "Play with emotion"
+      ]
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "startTime": 45,
+      "endTime": 80,
+      "chords": [
+        "F#m",
+        "C#/E#",
+        "Em6",
+        "F#",
+        "Bm",
+        "E7sus4",
+        "A"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "More complex chord changes",
+        "Build emotional intensity",
+        "Smooth transitions"
+      ]
+    }
+  ],
+  "tags": [
+    "fingerpicking",
+    "blues"
+  ],
+  "practiceTime": 69,
+  "techniques": [
+    "fingerpicking",
+    "emotional-playing",
+    "bass-notes"
+  ]
+}

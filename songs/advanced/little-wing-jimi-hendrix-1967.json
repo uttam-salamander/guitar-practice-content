@@ -1,0 +1,76 @@
+{
+  "id": "little-wing-jimi-hendrix-1967",
+  "metadata": {
+    "title": "Little Wing",
+    "artist": "Jimi Hendrix",
+    "year": 1967,
+    "genre": "Blues Rock",
+    "difficulty": 4,
+    "duration": 146,
+    "key": "Em",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 63,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "An4uDegHB8s",
+    "startTime": 0,
+    "endTime": 146,
+    "duration": 146
+  },
+  "structure": [
+    {
+      "id": "main-progression",
+      "name": "Main Progression",
+      "startTime": 0,
+      "endTime": 75,
+      "chords": [
+        "Em",
+        "G",
+        "Am",
+        "Em",
+        "Bm",
+        "Bb",
+        "Am",
+        "C",
+        "G/B",
+        "Am",
+        "Em"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Use thumb for bass notes",
+        "Add chord embellishments",
+        "Feel the blues rhythm"
+      ]
+    },
+    {
+      "id": "solo-section",
+      "name": "Solo Section",
+      "startTime": 75,
+      "endTime": 115,
+      "chords": [
+        "Em",
+        "G",
+        "Am"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Space for improvisation",
+        "Hendrix-style chord work",
+        "Expressive bending"
+      ]
+    }
+  ],
+  "tags": [
+    "advanced",
+    "blues rock"
+  ],
+  "practiceTime": 70,
+  "techniques": [
+    "chord-embellishments",
+    "thumb-fretting",
+    "blues-rhythm"
+  ]
+}

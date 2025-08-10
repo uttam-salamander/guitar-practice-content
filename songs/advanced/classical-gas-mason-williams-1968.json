@@ -1,0 +1,73 @@
+{
+  "id": "classical-gas-mason-williams-1968",
+  "metadata": {
+    "title": "Classical Gas",
+    "artist": "Mason Williams",
+    "year": 1968,
+    "genre": "Classical",
+    "difficulty": 5,
+    "duration": 195,
+    "key": "Am",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 120,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "mREi_Bb85Sk",
+    "startTime": 0,
+    "endTime": 195,
+    "duration": 195
+  },
+  "structure": [
+    {
+      "id": "main-theme",
+      "name": "Main Theme",
+      "startTime": 0,
+      "endTime": 60,
+      "chords": [
+        "Am",
+        "G",
+        "F",
+        "E",
+        "Am"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Classical fingerpicking technique",
+        "Precise finger placement",
+        "Maintain steady tempo"
+      ]
+    },
+    {
+      "id": "variation",
+      "name": "Variation",
+      "startTime": 60,
+      "endTime": 105,
+      "chords": [
+        "C",
+        "G",
+        "Am",
+        "F",
+        "G"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Complex arpeggios",
+        "Smooth voice leading",
+        "Classical phrasing"
+      ]
+    }
+  ],
+  "tags": [
+    "advanced",
+    "fingerpicking",
+    "classical"
+  ],
+  "practiceTime": 80,
+  "techniques": [
+    "classical-technique",
+    "fingerpicking",
+    "advanced-arpeggios"
+  ]
+}

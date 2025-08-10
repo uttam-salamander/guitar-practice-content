@@ -1,0 +1,72 @@
+{
+  "id": "dust-in-the-wind-kansas-1977",
+  "metadata": {
+    "title": "Dust in the Wind",
+    "artist": "Kansas",
+    "year": 1977,
+    "genre": "Progressive Rock",
+    "difficulty": 3,
+    "duration": 207,
+    "key": "C",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 90,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "tH2w6Oxx0kQ",
+    "startTime": 0,
+    "endTime": 207,
+    "duration": 207
+  },
+  "structure": [
+    {
+      "id": "intro",
+      "name": "Intro",
+      "startTime": 0,
+      "endTime": 20,
+      "chords": [
+        "C",
+        "Cmaj7",
+        "Cadd9",
+        "C"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Classic fingerpicking pattern",
+        "Thumb-index-middle-ring",
+        "Keep steady tempo"
+      ]
+    },
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 20,
+      "endTime": 65,
+      "chords": [
+        "C",
+        "Cmaj7",
+        "Cadd9",
+        "C",
+        "Am",
+        "Cadd9",
+        "C"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Maintain picking pattern",
+        "Smooth chord transitions",
+        "Let notes ring together"
+      ]
+    }
+  ],
+  "tags": [
+    "fingerpicking",
+    "progressive rock"
+  ],
+  "practiceTime": 50,
+  "techniques": [
+    "fingerpicking",
+    "arpeggios"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "wild-thing-the-troggs-1966",
+  "metadata": {
+    "title": "Wild Thing",
+    "artist": "The Troggs",
+    "year": 1966,
+    "genre": "Rock",
+    "difficulty": 1,
+    "duration": 158,
+    "key": "A",
+    "capo": 0,
+    "tuning": "Standard",
+    "tempo": 120,
+    "timeSignature": "4/4"
+  },
+  "backingTrack": {
+    "youtubeId": "gSWbx3CvVUk",
+    "startTime": 0,
+    "endTime": 158,
+    "duration": 158
+  },
+  "structure": [
+    {
+      "id": "verse",
+      "name": "Verse",
+      "startTime": 0,
+      "endTime": 40,
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Simple down-up strumming",
+        "Focus on clean chord changes",
+        "Keep steady tempo"
+      ]
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "startTime": 40,
+      "endTime": 70,
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D"
+      ],
+      "strummingPattern": "D-D-U-U-D-U",
+      "tips": [
+        "Same progression as verse",
+        "Add more energy to strumming",
+        "Sing along for timing"
+      ]
+    }
+  ],
+  "tags": [
+    "beginner-friendly",
+    "rock"
+  ],
+  "practiceTime": 30,
+  "techniques": [
+    "strumming",
+    "basic-chords"
+  ]
+}
